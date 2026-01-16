@@ -25,7 +25,5 @@ This project demonstrates a complete onboarding flow for iOS applications, guidi
 ### Technical Implementation
 - **Navigation**: Navigation controller managing screen transitions
 - **Text Input**: UITextField with custom styling and validation-ready structure
-- **Image Handling**: Photo upload capability with UIImagePickerController
-- **Permissions**: Push notification permission requests
 - **Layout**: Auto Layout constraints for responsive design
 - **Buttons**: Custom styled UIButtons with rounded corners and tap actions
